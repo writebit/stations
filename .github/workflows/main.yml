@@ -1,0 +1,40 @@
+name: Update radio stations
+
+on:
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-stations
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Pull most-clicked stations
+        run: python update_stations.py
+
+      - name: Commit changes if any
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet -- stations.json; then
+            echo "No new stations today."
+          else
+            git add stations.json
+            git commit -m "chore: update radio stations from radio-browser ($(date -u +%Y-%m-%d))"
+            git push
+          fi
