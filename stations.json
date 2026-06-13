@@ -1,5 +1,215 @@
 [
   {
+    "name": "Radio Mirchi Hindi",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "language": "Hindi"
+  },
+  {
+    "name": "- 0 N - 70s on Radio",
+    "url": "https://0n-70s.radionetz.de/0n-70s.aac",
+    "language": "German"
+  },
+  {
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "language": "English"
+  },
+  {
+    "name": "- 0 N - 80s on Radio",
+    "url": "https://0n-80s.radionetz.de/0n-80s.aac",
+    "language": "German"
+  },
+  {
+    "name": "J-Pop Sakura (asia DREAM radio)",
+    "url": "https://quincy.torontocast.com:2070/stream.mp3",
+    "language": "Japanese"
+  },
+  {
+    "name": "PAL Nostalji",
+    "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
+    "language": "Turkish"
+  },
+  {
+    "name": "Bond 92.9 FM",
+    "url": "https://go.webgateready.com/bondfm",
+    "language": "Unknown"
+  },
+  {
+    "name": "Classic FM Movies",
+    "url": "https://media-ice.musicradio.com/ClassicFMMoviesMP3",
+    "language": "English"
+  },
+  {
+    "name": "DR P5 København (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p5kobenhavn/masterab.m3u8",
+    "language": "Danish"
+  },
+  {
+    "name": "KAN Gimel כאן גימל",
+    "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+    "language": "Hebrew"
+  },
+  {
+    "name": "Radio Badal",
+    "url": "https://stream.zeno.fm/nhrtcxg09u8uv",
+    "language": "Hindi"
+  },
+  {
+    "name": "Sertaneja 106.7",
+    "url": "https://sc4s.cdn.upx.com:8067/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "Frisky",
+    "url": "https://stream.frisky.friskyradio.com/frisky_mp3_high",
+    "language": "English"
+  },
+  {
+    "name": "Radio ZZA (Zan Zendegi Azadi)",
+    "url": "https://listen.radioking.com/radio/526993/stream/585379",
+    "language": "Persian"
+  },
+  {
+    "name": "BBC World Service",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_east_asia",
+    "language": "Unknown"
+  },
+  {
+    "name": "Bremen Zwei NEU",
+    "url": "https://icecast.radiobremen.de/rb/bremenzwei/live/mp3/128/stream.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Sveriges Radio - P1",
+    "url": "https://live1.sr.se/p1-aac-320",
+    "language": "Swedish"
+  },
+  {
+    "name": "Gaúcha",
+    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Intamixx 80s 90s Radio UK",
+    "url": "https://radio.intamixx.uk:8443/radio2",
+    "language": "Unknown"
+  },
+  {
+    "name": ".100 Hip hop and RNB FM",
+    "url": "https://ice64.securenetsystems.net/LFTM",
+    "language": "English"
+  },
+  {
+    "name": "Amapiano FM",
+    "url": "https://stream.zeno.fm/xs6zeac1ts8uv",
+    "language": "Unknown"
+  },
+  {
+    "name": ".إذاعة ماهر المعيقلي",
+    "url": "https://backup.qurango.net/radio/maher",
+    "language": "Unknown"
+  },
+  {
+    "name": "stereo anime",
+    "url": "https://radio.stereoanime.com/listen/stereoanime/128",
+    "language": "English"
+  },
+  {
+    "name": "Radio Karolina",
+    "url": "https://streaming.karolina.rs/karolina.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio Plus Mauritius",
+    "url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "language": "French"
+  },
+  {
+    "name": "Smooth Relax",
+    "url": "https://icecast.thisisdax.com/SmoothRelaxMP3",
+    "language": "English"
+  },
+  {
+    "name": "Radio Faaz",
+    "url": "https://free.rcast.net/230792",
+    "language": "Persian"
+  },
+  {
+    "name": "Flaix FM",
+    "url": "https://stream.flaixfm.cat/icecast",
+    "language": "Catalan"
+  },
+  {
+    "name": "NRG Uganda 106.5",
+    "url": "https://dc4.serverse.com/proxy/nrgugstream/stream",
+    "language": "English"
+  },
+  {
+    "name": "Aswat FM",
+    "url": "https://broadcast.ice.infomaniak.ch/aswat-high.mp3",
+    "language": "Arabic"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "language": "Finnish"
+  },
+  {
+    "name": "AIR DELHI FM GOLD",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio005/hlspbaudio00532kbps.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "80s New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "Мелодии Века 96.2fm",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+    "language": "English"
+  },
+  {
+    "name": "Magic Fm",
+    "url": "https://live.magicfm.ro/magicfm.aacp",
+    "language": "Romanian"
+  },
+  {
+    "name": "德云社相声合集",
+    "url": "https://stream.zeno.fm/yqawwmweq8mtv",
+    "language": "Chinese"
+  },
+  {
+    "name": "La Noventera",
+    "url": "https://host.gometri.com/proxy/lanoventera/stream/",
+    "language": "Español - Latinoamerica"
+  },
+  {
+    "name": "FREKVENCE 1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "NDR 90,3",
+    "url": "https://icecast.ndr.de/ndr/ndr903/hamburg/mp3/128/stream.mp3?1728425642817&aggregator=web",
+    "language": "German"
+  },
+  {
+    "name": "METRO FM LAGOS",
+    "url": "https://go.webgateready.com/metrofm/radio.mp3",
+    "language": "English"
+  },
+  {
+    "name": "Virgin Radio Switzerland",
+    "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
+    "language": "Unknown"
+  },
+  {
+    "name": "Non-Stop Oldies",
+    "url": "https://ais-sa2.cdnstream1.com/2383_128.mp3",
+    "language": "English"
+  },
+  {
     "name": "Anty Radio",
     "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
     "language": "Unknown"
@@ -113,11 +323,6 @@
     "name": "Спокойное радио",
     "url": "https://listen9.myradio24.com/6262",
     "language": "Russian"
-  },
-  {
-    "name": "RIX FM 106,7",
-    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
-    "language": "Swedish"
   },
   {
     "name": "m2o originals radio",
@@ -622,11 +827,6 @@
   {
     "name": "Jacaranda",
     "url": "https://live.jacarandafm.com/jacarandahigh.mp3",
-    "language": "Unknown"
-  },
-  {
-    "name": "Mosaique FM Tarab",
-    "url": "https://radio.mosaiquefm.net/mosatarab",
     "language": "Unknown"
   },
   {
