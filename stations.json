@@ -1,5 +1,225 @@
 [
   {
+    "name": ". quran",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "language": "Unknown"
+  },
+  {
+    "name": "Huna Aden FM",
+    "url": "https://c30.radioboss.fm:18267/stream",
+    "language": "Arabic"
+  },
+  {
+    "name": "صوت المقاومة",
+    "url": "https://node-23.zeno.fm/b67qheuk54zuv",
+    "language": "Arabic"
+  },
+  {
+    "name": "70 80 Hits HQ",
+    "url": "https://nr8.newradio.it:19574/stream",
+    "language": "Italian"
+  },
+  {
+    "name": "Nostalgie Les Plus Gramds Slow",
+    "url": "https://streaming.nrjaudio.fm/oudjby2h9r57?origine=playernostalgie&aw_0_req.userConsentV2=CQkCxgAQkCxgAAHABBENCdFsAP_gAEPgAAqIJ2tR_G_fbWlj-TZ1YbpkeYwP99gj7sQxBgSJk24FyJvW7JwCx2ExJAzapqIKmRIAu3TBAQNlGIDURUAAIIgFqSDMaESUgTNKJ6BEiFMRI2JQCFxvm4FDeQCY4kp_9kcxmB-t7dr8yNzgAgAAAUCAIAAgAIABAACIAAAgAAAAAQAAAiwACAAAAAAAAEAAAFAAAABAAAEAAAACAAAABAAAIJ2gAmGhUQQlgQCBAoCAECAAQVhABQIAgAASBggIASBgQ5AwAXWEyAAAKAAYIAQAAgwABAAAJAAhEAEABAIAQIBAIAAQAAAAIACBAADABQiAQAAgOgYBAQQCBYAJEZUBpgQgAJBASyFCAAAAgAACAAAAAAIAAAAAAAAAgAAAAAAAAggAAAAAAAAAAAEAAAAAAEABAAAAAAAAAAAAABAAAIAA.IJ2tR_G_fbWlj-TZ14bpkeYwf99gj7sQxBgSJk24FyJvW7JwC32EzJAzapqYKmRIAu3TBAQNtGIjURUABIIgVqTDMaESUgTNKJ6BEiHMRY2JQCFxvm4FDeQCZ4kp_90d5mR-t7dr-yNzgAgAgAUCAIAAgAIABAACIAAAgAAAAAQAAgiwACAAAAAAAAEAAAFAAEABAAAEAAAACAAAABAAAIAA.f_wACHwAAAAA&aw_0_1st.station=Nostalgie-Les-Plus-Grands-Slows",
+    "language": "Francia"
+  },
+  {
+    "name": "TRT NAĞME",
+    "url": "https://tv-trtmuzik.medya.trt.com.tr/master_720.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio FG Underground",
+    "url": "https://radiofg.impek.com/ufg.mp3",
+    "language": "Francaise"
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "language": "Arabic"
+  },
+  {
+    "name": "Oxygen The 80s Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenthe80shits",
+    "language": "Unknown"
+  },
+  {
+    "name": "Q-Foute Radio",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
+    "language": "Dutch"
+  },
+  {
+    "name": "__LOUNGE__ by rautemusik (rm.fm)",
+    "url": "https://lounge-high.rautemusik.fm/?ref=radiobrowser",
+    "language": "English"
+  },
+  {
+    "name": "90S DANCE by Mix: Dance de los 90",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ACIR11_s01AAC.aac",
+    "language": "Spanish"
+  },
+  {
+    "name": "راديو الشيخ محمد المقرمي إذاعة (هندسة القلوب)",
+    "url": "https://s1.reliastream.com/proxy/almaqrami?mp=/stream",
+    "language": "Arabic"
+  },
+  {
+    "name": "Super Radio Tupi 96.5",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "Kiss FM Deep",
+    "url": "https://online.kissfm.ua/KissFM_Deep",
+    "language": "Unknown"
+  },
+  {
+    "name": "Kelantan FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KELANTAN_FMAAC.aac",
+    "language": "Malay"
+  },
+  {
+    "name": "Petőfi Rádió",
+    "url": "https://icast.connectmedia.hu/4738/mr2.mp3",
+    "language": "Hungarian"
+  },
+  {
+    "name": "动听音乐台",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022107/64k.mp3",
+    "language": "Cantonese"
+  },
+  {
+    "name": "Rádio Transamérica 100.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Fm Rainbow Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio00464kbps.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "راديو الناس",
+    "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+    "language": "العربية"
+  },
+  {
+    "name": "UK Bass Radio",
+    "url": "https://www.ukbassradio.com/stream",
+    "language": "British English"
+  },
+  {
+    "name": "FIP",
+    "url": "https://stream.radiofrance.fr/fip/fip.m3u8?id=radiofrance",
+    "language": "French"
+  },
+  {
+    "name": "Comedy Club R@dio DIANA",
+    "url": "https://westradio.cz/radio/8010/radio.mp3",
+    "language": "Czech"
+  },
+  {
+    "name": "Radio La Belle Aventure",
+    "url": "https://flux.radiolabelleaventure.com/listen/radio_la_belle_aventure/radio.mp3",
+    "language": "English"
+  },
+  {
+    "name": "KISSTORY R&B: The Hottest R&B tracks from KISSTORY",
+    "url": "https://live-bauerkiss.sharp-stream.com/kisstoryrb.aac?direct=true&aw_0_1st.playerid=BMUK_Airable&aw_0_1st.skey=6778249992",
+    "language": "English"
+  },
+  {
+    "name": "FM Soldados 87.5",
+    "url": "https://radio02.ferozo.com/proxy/ra01000409?mp=/stream",
+    "language": "Español Argentina"
+  },
+  {
+    "name": "Willy Class X",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
+    "language": "Dutch"
+  },
+  {
+    "name": "BEST OF AR RAHMAN TAMIL SONGS",
+    "url": "https://stream-176.zeno.fm/p7b0e3ms97zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwN2IwZTNtczk3enV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklNa3dEVmF0VEYtVVo5ekQxUURkRVEiLCJpYXQiOjE3MjM3MjM0NTMsImV4cCI6MTcyMzcyMzUxM30.5coumX6SC7zgvRPEriGg9pnWNV6801uGjs4phyhSy6Q",
+    "language": "Unknown"
+  },
+  {
+    "name": "Campursari FM Jakarta",
+    "url": "https://streaming.campursarifm.com/listen/campursari/campursari892",
+    "language": "Indonesian"
+  },
+  {
+    "name": "MOR 101.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "ZBS Zodiak FM",
+    "url": "https://ice31.securenetsystems.net/0079",
+    "language": "English"
+  },
+  {
+    "name": "Jovem Pan FM - Florianópolis - SC",
+    "url": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "Toulouse FM",
+    "url": "https://n32a-eu.rcs.revma.com/1x41712gy7uvv",
+    "language": "Francaise"
+  },
+  {
+    "name": "GENÇ KRAL FM",
+    "url": "https://anadolu.liderhost.com.tr:10853/;",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio 70 80 90 Marche",
+    "url": "https://rblive.it:8020/radio.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Rádio Gaúcha 93.7 FM",
+    "url": "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "100 % SALSA",
+    "url": "https://stm01.streammaximum.com:8194/;",
+    "language": "Spanish"
+  },
+  {
+    "name": "Nova FM",
+    "url": "https://live-bauerdk.sharp-stream.com/nova_dk_mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "EXA FM: په انګلیسي او هسپانوي کې پاپ موزیک",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "language": "Spanish"
+  },
+  {
+    "name": "Antyradio",
+    "url": "https://n-4-2.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx?audio=5",
+    "language": "Polish"
+  },
+  {
+    "name": "إذاعة ابن القيم السلفية",
+    "url": "https://c38.radioboss.fm:8323/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "KISS DANCE: The Biggest Dance Anthems 24/7",
+    "url": "https://stream-kiss.hellorayo.co.uk/kissdance.aac?direct=true&aw_0_1st.skey=1602676850&rp_source=1&=&&___cb=60456375243858",
+    "language": "English"
+  },
+  {
+    "name": "SomaFM Deep Space One (128k MP3)",
+    "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
+    "language": "English"
+  },
+  {
     "name": "Radio Mirchi Hindi",
     "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
     "language": "Hindi"
@@ -2363,11 +2583,6 @@
     "name": "Slow Turk",
     "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
     "language": "Turkish"
-  },
-  {
-    "name": "ایران‎ Radio Liberty (Iran) (official stream)",
-    "url": "https://stream.radiojar.com/cp13r2cpn3quv",
-    "language": "Irani"
   },
   {
     "name": "WDR4",
