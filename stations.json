@@ -1,5 +1,150 @@
 [
   {
+    "name": "ایران‎ Radio Liberty (Iran) (official stream)",
+    "url": "https://stream.radiojar.com/cp13r2cpn3quv",
+    "language": "Irani"
+  },
+  {
+    "name": "Hotmix 90",
+    "url": "https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser",
+    "language": "Unknown"
+  },
+  {
+    "name": "RIX FM 106,7",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "language": "Swedish"
+  },
+  {
+    "name": "Radio RaiSport",
+    "url": "https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S74167340/mmNY37FME5Zl/icecast",
+    "language": "Unknown"
+  },
+  {
+    "name": "1000 Hits 90s",
+    "url": "https://c4.auracast.net:8050/;",
+    "language": "French"
+  },
+  {
+    "name": "Magic Party Mix",
+    "url": "https://live.magicfm.ro/magic.party.mix",
+    "language": "Romanian"
+  },
+  {
+    "name": "BioBio Chile",
+    "url": "https://unlimited3-cl.dps.live/biobiosantiago/aac/icecast.audio",
+    "language": "Spanish"
+  },
+  {
+    "name": "Chante France 80's",
+    "url": "https://chantefrance80s.ice.infomaniak.ch/chantefrance80s-128.mp3",
+    "language": "French"
+  },
+  {
+    "name": "RBN - Republic Broadcastin Network",
+    "url": "https://cast2.my-control-panel.com/proxy/rbn/stream;",
+    "language": "Unknown"
+  },
+  {
+    "name": "BR Heimat",
+    "url": "https://dispatcher.rndfnk.com/br/brheimat/live/mp3/mid",
+    "language": "Unknown"
+  },
+  {
+    "name": "Соловьёв FM",
+    "url": "https://solovievfm.hostingradio.ru/solovievfm32.aacp",
+    "language": "Unknown"
+  },
+  {
+    "name": "FM ADDIS 97-1",
+    "url": "https://stream.zeno.fm/rb6wbrap7yzuv",
+    "language": "Amharic"
+  },
+  {
+    "name": "Cadena SER - Ràdio Barcelona",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SER_BARCELONA.mp3",
+    "language": "Catalan"
+  },
+  {
+    "name": "SENSUAL LOUNGE RADIO",
+    "url": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
+    "language": "English"
+  },
+  {
+    "name": "Eska Wrocław",
+    "url": "https://radio.stream.smcdn.pl/icradio-p/2180-1.aac/playlist.m3u8",
+    "language": "Polish"
+  },
+  {
+    "name": "Мелодія FM",
+    "url": "https://online.melodiafm.ua/MelodiaFM",
+    "language": "Unknown"
+  },
+  {
+    "name": "NRK P2 aac_h",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio Paradise Mellow Mix FLAC",
+    "url": "https://stream.radioparadise.com/mellow-flac",
+    "language": "American English"
+  },
+  {
+    "name": "Єдині новини",
+    "url": "https://online-news.radioplayer.ua/RadioNews",
+    "language": "Unknown"
+  },
+  {
+    "name": "Antena 1 (Portugal)",
+    "url": "https://streaming-live.rtp.pt/liveradio/antena180a/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Afrobeats Gospel Radio",
+    "url": "https://stream.zeno.fm/zyd9stmdlnlvv",
+    "language": "Unknown"
+  },
+  {
+    "name": "Chante France 70's",
+    "url": "https://chantefrance70s.ice.infomaniak.ch/chantefrance70s-128.mp3",
+    "language": "French"
+  },
+  {
+    "name": "Radio X Classic Rock",
+    "url": "https://media-ice.musicradio.com/RadioXClassicRockMP3",
+    "language": "British English"
+  },
+  {
+    "name": "Cadena 3 Cordoba",
+    "url": "https://liveradio.mediainbox.net/radio3.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Antyradio",
+    "url": "https://n-4-4.dcs.redcdn.pl/sc/o2/Eurozet/live/antyradio.livx",
+    "language": "Unknown"
+  },
+  {
+    "name": "Café del Mar CALM",
+    "url": "https://streamer.radio.co/sb748f24ad/listen",
+    "language": "Castellano. Español"
+  },
+  {
+    "name": "AM 530 Somos radio",
+    "url": "https://ipanel.instream.audio:7000/stream",
+    "language": "Spanish"
+  },
+  {
+    "name": "Voice of Lebanon (Sawtlebnan) Radio",
+    "url": "https://l3.itworkscdn.net/itwaudio/9054/stream",
+    "language": "Arabic"
+  },
+  {
+    "name": "Danubius",
+    "url": "https://stream.danubiusradio.hu/danubius_128k",
+    "language": "Hungarian"
+  },
+  {
     "name": ". quran",
     "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
     "language": "Unknown"
@@ -1685,11 +1830,6 @@
     "language": "Chinese"
   },
   {
-    "name": "江西-高安人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/20500014/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "江西-赣州综合广播（2）",
     "url": "https://lhttp.qingting.fm/live/20266/64k.mp3",
     "language": "Chinese"
@@ -2037,11 +2177,6 @@
   {
     "name": "上海-ShanghaiFM101上海动感101",
     "url": "https://lhttp.qingting.fm/live/274/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "呼和浩特综合广播",
-    "url": "https://lhttp.qingting.fm/live/5021543/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -3260,11 +3395,6 @@
     "language": "Russian"
   },
   {
-    "name": "Tamil 80's Radio",
-    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
-    "language": "Tamil"
-  },
-  {
     "name": "SWR4 BW [48 aac]",
     "url": "https://liveradio.swr.de/sw890cl/swr4bw/",
     "language": "German"
@@ -3893,11 +4023,6 @@
     "name": "# 100 GREATEST JAZZ LOUNGE BAR",
     "url": "https://cast1.torontocast.com:4640/stream",
     "language": "English"
-  },
-  {
-    "name": "Instrumental Jazz",
-    "url": "https://jfm1.hostingradio.ru:14536/ijstream.mp3",
-    "language": "Russian"
   },
   {
     "name": "Radio Party - Kanał Główny",
