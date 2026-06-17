@@ -1,5 +1,125 @@
 [
   {
+    "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "80s Zoom",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM03AAC226_SC.mp3",
+    "language": "American English"
+  },
+  {
+    "name": "Tamil 80's Radio",
+    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
+    "language": "Tamil"
+  },
+  {
+    "name": "Radio Bruno Pentasport Fiorentina",
+    "url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
+    "language": "Unknown"
+  },
+  {
+    "name": "VRT Radio 1",
+    "url": "https://f8e0a3fc90d142e68cd424a56b220f0d.mediatailor.us-east-1.amazonaws.com/v1/manifest/7c1b669ef36eb1e845184b6345b06cd264fc4eb7/5bzs1cW9_vrt-audio-only-v1/d65e4279-e3bc-4151-af02-02ffe699135d/0.m3u8",
+    "language": "Dutch"
+  },
+  {
+    "name": "Tipik",
+    "url": "https://radios.rtbf.be/pure-128.mp3",
+    "language": "French"
+  },
+  {
+    "name": "Big B Radio - Kpop",
+    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "language": "Korean"
+  },
+  {
+    "name": "SomaFM Groove Salad (128k AAC)",
+    "url": "https://ice5.somafm.com/groovesalad-128-aac",
+    "language": "English"
+  },
+  {
+    "name": "Radio Rivadavia AM 630. Ciudad de Buenos Aires",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIVADAVIAAAC.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "VIRGIN RADIO UK: Rock‘n’Roll Radio From The Top Of The Tower",
+    "url": "https://virgin.live.stream.broadcasting.news/stream",
+    "language": "English"
+  },
+  {
+    "name": "RAC105",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RAC105.mp3",
+    "language": "Catalan"
+  },
+  {
+    "name": "RTS 92.5 RSI",
+    "url": "https://10gb1.acangroup.org:8000/rsi",
+    "language": "French"
+  },
+  {
+    "name": "Teleradyo Serbisyo",
+    "url": "https://stream.zeno.fm/yaksrqvb35duv?type=.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "105.9 FM WMAL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMALFMAAC.aac",
+    "language": "English"
+  },
+  {
+    "name": "East Coast Radio",
+    "url": "https://live.ecr.co.za/ecrhigh.mp3?aw_0_pinpoll=1,2,9&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue&aw_0_1st.ri=iono",
+    "language": "Unknown"
+  },
+  {
+    "name": "北京新闻广播",
+    "url": "https://lhttp.qtfm.cn/live/339/64k.mp3",
+    "language": "Chinese"
+  },
+  {
+    "name": "Kool FM",
+    "url": "https://admin.stream.rinse.fm/proxy/kool/stream",
+    "language": "British English"
+  },
+  {
+    "name": "RTL France",
+    "url": "https://icecast.rtl.fr/rtl-1-44-128",
+    "language": "French"
+  },
+  {
+    "name": "Radio Active 104.5 FM",
+    "url": "https://kadushi.westream.cloud/listen/radioactive/RadioActive",
+    "language": "Willemstad"
+  },
+  {
+    "name": "Ibiza X Radio",
+    "url": "https://stream.radiojar.com/p1f2vpv37reuv",
+    "language": "English"
+  },
+  {
+    "name": "Radio Veronica",
+    "url": "https://19993.live.streamtheworld.com/VERONICA_SC",
+    "language": "Spanish"
+  },
+  {
+    "name": "CNR-3 音乐之声",
+    "url": "https://ngcdn001.cnr.cn/live/yyzs/index.m3u8",
+    "language": "Chinese"
+  },
+  {
+    "name": "DamarTurk FM",
+    "url": "https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881",
+    "language": "Unknown"
+  },
+  {
+    "name": "Star FM 89.7",
+    "url": "https://edge.iono.fm/xice/159_medium.aac",
+    "language": "Unknown"
+  },
+  {
     "name": "ایران‎ Radio Liberty (Iran) (official stream)",
     "url": "https://stream.radiojar.com/cp13r2cpn3quv",
     "language": "Irani"
@@ -8,11 +128,6 @@
     "name": "Hotmix 90",
     "url": "https://streaming.hotmixradio.com/hotmix-90-en-mp3?provider=radiobrowser",
     "language": "Unknown"
-  },
-  {
-    "name": "RIX FM 106,7",
-    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
-    "language": "Swedish"
   },
   {
     "name": "Radio RaiSport",
@@ -210,11 +325,6 @@
     "language": "Arabic"
   },
   {
-    "name": "Super Radio Tupi 96.5",
-    "url": "https://8923.brasilstream.com.br/stream",
-    "language": "Brazilian Portuguese"
-  },
-  {
     "name": "Kiss FM Deep",
     "url": "https://online.kissfm.ua/KissFM_Deep",
     "language": "Unknown"
@@ -305,11 +415,6 @@
     "language": "English"
   },
   {
-    "name": "Jovem Pan FM - Florianópolis - SC",
-    "url": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream",
-    "language": "Brazilian Portuguese"
-  },
-  {
     "name": "Toulouse FM",
     "url": "https://n32a-eu.rcs.revma.com/1x41712gy7uvv",
     "language": "Francaise"
@@ -375,11 +480,6 @@
     "language": "German"
   },
   {
-    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
-    "url": "https://radiopanther.radiolebowski.com/play",
-    "language": "English"
-  },
-  {
     "name": "- 0 N - 80s on Radio",
     "url": "https://0n-80s.radionetz.de/0n-80s.aac",
     "language": "German"
@@ -393,11 +493,6 @@
     "name": "PAL Nostalji",
     "url": "https://moondigitaledge.radyotvonline.net/palnostalji/playlist.m3u8",
     "language": "Turkish"
-  },
-  {
-    "name": "Bond 92.9 FM",
-    "url": "https://go.webgateready.com/bondfm",
-    "language": "Unknown"
   },
   {
     "name": "Classic FM Movies",
@@ -423,11 +518,6 @@
     "name": "Sertaneja 106.7",
     "url": "https://sc4s.cdn.upx.com:8067/stream",
     "language": "Brazilian Portuguese"
-  },
-  {
-    "name": "Frisky",
-    "url": "https://stream.frisky.friskyradio.com/frisky_mp3_high",
-    "language": "English"
   },
   {
     "name": "Radio ZZA (Zan Zendegi Azadi)",
@@ -560,11 +650,6 @@
     "language": "German"
   },
   {
-    "name": "METRO FM LAGOS",
-    "url": "https://go.webgateready.com/metrofm/radio.mp3",
-    "language": "English"
-  },
-  {
     "name": "Virgin Radio Switzerland",
     "url": "https://stream.streambase.ch/vrock/mp3-192/direct/",
     "language": "Unknown"
@@ -573,11 +658,6 @@
     "name": "Non-Stop Oldies",
     "url": "https://ais-sa2.cdnstream1.com/2383_128.mp3",
     "language": "English"
-  },
-  {
-    "name": "Anty Radio",
-    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
-    "language": "Unknown"
   },
   {
     "name": "إذاعة القرآن الكريم",
@@ -4633,11 +4713,6 @@
     "name": "The Hits",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_71AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6204&terminalId=162&territory=NZ",
     "language": "English"
-  },
-  {
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "language": "Portuguese"
   },
   {
     "name": "Newstalk ZB",
