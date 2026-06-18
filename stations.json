@@ -1,5 +1,120 @@
 [
   {
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "language": "English"
+  },
+  {
+    "name": "Anty Radio",
+    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+    "language": "Unknown"
+  },
+  {
+    "name": "Jazz 24",
+    "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
+    "language": "Unknown"
+  },
+  {
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "language": "Portuguese"
+  },
+  {
+    "name": "RIX FM 106,7",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "language": "Swedish"
+  },
+  {
+    "name": "RADIO RELAX Italia",
+    "url": "https://radiorelax.streamingmedia.it/play",
+    "language": "Unknown"
+  },
+  {
+    "name": "Win Radio Manila",
+    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
+    "language": "Unknown"
+  },
+  {
+    "name": "Channel 955",
+    "url": "https://stream.revma.ihrhls.com/zc1145",
+    "language": "English"
+  },
+  {
+    "name": "Super Radio Tupi 96.5",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "lofi girl",
+    "url": "https://play.streamafrica.net/lofiradio",
+    "language": "Unknown"
+  },
+  {
+    "name": "Kaya FM",
+    "url": "https://edge.iono.fm/xice/82_medium.aac",
+    "language": "English"
+  },
+  {
+    "name": "SomaFM DEF CON Radio (128k AAC)",
+    "url": "https://ice6.somafm.com/defcon-128-aac",
+    "language": "English"
+  },
+  {
+    "name": "Radio Mágica 88.3 FM",
+    "url": "https://pe-p1-p-e-xm2-audio.cdn.mdstrm.com/live-audio-aw/6839e28eb3fdc597ac2e2e43?aid=68386a6e44ba64f6064b25c9&amp;pid=feTbRIuYIYCrMwO4fNUTwX6cqyUl3MUo&amp;sid=JkMZvIkbbH8f017OQm8BN32kAZ8TPYUI&amp;uid=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u&amp;es=pe-p1-p-e-xm2-audio.cdn.mdstrm.com&amp;ote=1767062598351&amp;ot=f8MpWy_qc1rzl0h33cbq6g&amp;proto=https&amp;pz=us&amp;cP=128000&amp;awCollectionId=68386a6e44ba64f6064b25c9&amp;liveId=6839e28eb3fdc597ac2e2e43&amp;listenerId=HGunCsyBd0aMB34Mc7RhEkRXBlaSib3u",
+    "language": "English"
+  },
+  {
+    "name": "BritCom 3 - British Comedy Radio (Pumpkin FM OTRN)",
+    "url": "https://cast2.asurahosting.com/proxy/britcom3/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "Bloomberg Radio Boston",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRCAAMAAC.aac",
+    "language": "English"
+  },
+  {
+    "name": "Olímpica Stereo (Medellín) 104.9-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLP_MEDELLINAAC.aac",
+    "language": "Espanish"
+  },
+  {
+    "name": "Algérie Chaine 1",
+    "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
+    "language": "Arabic"
+  },
+  {
+    "name": "#joint radio Blues Rock",
+    "url": "https://jointil.com/stream-blues",
+    "language": "English"
+  },
+  {
+    "name": "CJCL Sportsnet 590 The Fan",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor590.stream/playlist.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "Rádio Metropolitana 98.5 FM",
+    "url": "https://ice.fabricahost.com.br/metropolitana985sp",
+    "language": "Unknown"
+  },
+  {
+    "name": "Mai FM",
+    "url": "https://mediaworks.streamguys1.com/mai_net_icy",
+    "language": "English"
+  },
+  {
+    "name": "Mix Megapol 104,3",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+    "language": "Swedish"
+  },
+  {
+    "name": "Radio Oxígeno",
+    "url": "https://mdstrm.com/audio/5fab0687bcd6c2389ee9480c/live.m3u8",
+    "language": "Spanish"
+  },
+  {
     "name": "Mitre AM 790. AAC Alta. Ciudad de Buenos Aires",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AM790_56AAC.aac",
     "language": "Unknown"
@@ -1072,11 +1187,6 @@
   {
     "name": "Radio Pogoda",
     "url": "https://radiostream.pl/tuba140-1.mp3",
-    "language": "Unknown"
-  },
-  {
-    "name": "Joe Gold",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
     "language": "Unknown"
   },
   {
@@ -3767,11 +3877,6 @@
   {
     "name": "Q-Music",
     "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playerId=redirect",
-    "language": "Unknown"
-  },
-  {
-    "name": "DYHP 612 RMN Cebu",
-    "url": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream",
     "language": "Unknown"
   },
   {
