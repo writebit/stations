@@ -1,5 +1,140 @@
 [
   {
+    "name": "Chabad.org Jewish Music",
+    "url": "https://stream.radio.co/sdfd68a101/listen",
+    "language": "English"
+  },
+  {
+    "name": "RADIO FM1",
+    "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728",
+    "language": "German"
+  },
+  {
+    "name": "2000's Country Music Radio",
+    "url": "https://2.mystreaming.net/uber/cmr00scountry/icecast.audio",
+    "language": "Unknown"
+  },
+  {
+    "name": "CAPITAL ANTHEMS: The Songs Capital Made Famous",
+    "url": "https://media-ssl.musicradio.com/CapitalAnthemsMP3",
+    "language": "English"
+  },
+  {
+    "name": "FOREVER 90",
+    "url": "https://stream.laut.fm/forever90",
+    "language": "Italian"
+  },
+  {
+    "name": "Radio Bollerwagen",
+    "url": "https://ffn-stream19.radiohost.de/radiobollerwagen_mp3-192",
+    "language": "Unknown"
+  },
+  {
+    "name": "Red Fm",
+    "url": "https://funasia.streamguys1.com/live9",
+    "language": "Hindi"
+  },
+  {
+    "name": "98.8 Buddu Fm",
+    "url": "https://dc4.serverse.com/proxy/ccmxrgub/stream",
+    "language": "Luganda"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965",
+    "language": "Polish"
+  },
+  {
+    "name": "Бизнес FM",
+    "url": "https://bfm.hostingradio.ru:9075/fm",
+    "language": "Russian"
+  },
+  {
+    "name": "CCTV-5体育伴音",
+    "url": "https://piccpndali.v.myalicdn.com/audio/cctv5_2.m3u8",
+    "language": "Chinese"
+  },
+  {
+    "name": "D Sports Radio 103.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DSPORTSRADIOAAC.aac",
+    "language": "Spanish"
+  },
+  {
+    "name": "ذكريات",
+    "url": "https://stream.zeno.fm/ctmapun6ot5vv",
+    "language": "Arabic"
+  },
+  {
+    "name": "Bond 92.9 FM",
+    "url": "https://go.webgateready.com/bondfm",
+    "language": "Unknown"
+  },
+  {
+    "name": "Atmospheric dnb s0urce",
+    "url": "https://brokenbeats.net/stream/aac",
+    "language": "English"
+  },
+  {
+    "name": "Radio Plus",
+    "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "language": "Polish"
+  },
+  {
+    "name": "AisaFM亚洲粤语台",
+    "url": "https://live.ximalaya.com/radio-first-page-app/live/999/64.m3u8?transcode=ts",
+    "language": "Cantonese"
+  },
+  {
+    "name": "El Destape Radio",
+    "url": "https://ipanel.instream.audio/8004/stream",
+    "language": "Spanish"
+  },
+  {
+    "name": "九八新聞台",
+    "url": "https://n17a-eu.rcs.revma.com/pntx1639ntzuv",
+    "language": "Chinese"
+  },
+  {
+    "name": "Kiss FM Digital HD",
+    "url": "https://online.kissfm.ua/KissFM_Digital_HD",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio U1 Tirol",
+    "url": "https://live.u1-radio.at/",
+    "language": "German"
+  },
+  {
+    "name": "Vividh Bharati Bengaluru",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
+    "language": "Kannada"
+  },
+  {
+    "name": "Rinse UK",
+    "url": "https://admin.stream.rinse.fm/proxy/rinse_uk/stream",
+    "language": "British English"
+  },
+  {
+    "name": "SmoothJazz.com.pl 320k MP3",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Fairouz",
+    "url": "https://stream-155.zeno.fm/9vrahqqfuuhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI5dnJhaHFxZnV1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlJWZ1h0SmNZUlZxUm9XeTd6amlkTVEiLCJpYXQiOjE3NDg2Nzg2NTksImV4cCI6MTc0ODY3ODcxOX0.JUJKFflQ3A2RrO_QB-EmeqGocncaUaCXOs_tSTYAqAA",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio BOB - Nu Metal (mp3 192)",
+    "url": "https://streams.radiobob.de/numetal/mp3-192/",
+    "language": "German"
+  },
+  {
+    "name": "500首华语经典",
+    "url": "https://lhttp.qtfm.cn/live/5022308/64k.mp3",
+    "language": "Chinese"
+  },
+  {
     "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
     "url": "https://radiopanther.radiolebowski.com/play",
     "language": "English"
@@ -13,11 +148,6 @@
     "name": "Jazz 24",
     "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
     "language": "Unknown"
-  },
-  {
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "language": "Portuguese"
   },
   {
     "name": "RIX FM 106,7",
@@ -415,11 +545,6 @@
     "language": "Arabic"
   },
   {
-    "name": "Oxygen The 80s Hits",
-    "url": "https://oxygenmusic.hu:8443/oxygenthe80shits",
-    "language": "Unknown"
-  },
-  {
     "name": "Q-Foute Radio",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/foute_radio_be/mp3",
     "language": "Dutch"
@@ -523,11 +648,6 @@
     "name": "MOR 101.9 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3",
     "language": "Unknown"
-  },
-  {
-    "name": "ZBS Zodiak FM",
-    "url": "https://ice31.securenetsystems.net/0079",
-    "language": "English"
   },
   {
     "name": "Toulouse FM",
@@ -663,11 +783,6 @@
     "name": "Intamixx 80s 90s Radio UK",
     "url": "https://radio.intamixx.uk:8443/radio2",
     "language": "Unknown"
-  },
-  {
-    "name": ".100 Hip hop and RNB FM",
-    "url": "https://ice64.securenetsystems.net/LFTM",
-    "language": "English"
   },
   {
     "name": "Amapiano FM",
@@ -1785,11 +1900,6 @@
     "language": "Chinese"
   },
   {
-    "name": "贺州综合广播",
-    "url": "https://lhttp.qingting.fm/live/5043/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "慈溪人民广播电台",
     "url": "https://lhttp.qingting.fm/live/5021401/64k.mp3",
     "language": "Chinese"
@@ -1967,11 +2077,6 @@
   {
     "name": "湖南-漯河交通广播",
     "url": "https://lhttp.qingting.fm/live/5022452/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "吉林-白山交通广播",
-    "url": "https://lhttp.qingting.fm/live/5083/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -3678,11 +3783,6 @@
     "name": "Hits 1",
     "url": "https://radio7.pro-fhi.net/radio/9006/hits1hd",
     "language": "Englsih"
-  },
-  {
-    "name": "Rádio Mix 106.3 FM",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
-    "language": "Portuguese"
   },
   {
     "name": "Sterren.nl",
