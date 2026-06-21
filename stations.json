@@ -1,5 +1,90 @@
 [
   {
+    "name": "Rádio Mix 106.3 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+    "language": "Portuguese"
+  },
+  {
+    "name": "__SCHLAGER OLDIES__ by rautemusik (rm.fm)",
+    "url": "https://schlager-oldies-high.rautemusik.fm/?ref=radiobrowser",
+    "language": "English"
+  },
+  {
+    "name": "Schlagerparadies",
+    "url": "https://webstream.schlagerparadies.de/schlager30842",
+    "language": "German"
+  },
+  {
+    "name": "Gold Radio UK",
+    "url": "https://media-ice.musicradio.com/GoldMP3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Маруся ФМ",
+    "url": "https://radio-holding.ru:9433/marusya_default",
+    "language": "Unknown"
+  },
+  {
+    "name": "P10 Country (AAC HQ)",
+    "url": "https://p10.p4groupaudio.com/P10_AH",
+    "language": "Norwegian"
+  },
+  {
+    "name": "Le Bon Mix HiFi Flac 1411 Kbps",
+    "url": "https://stream10.xdevel.com/audio17s976748-2218/stream/icecast.audio",
+    "language": "English"
+  },
+  {
+    "name": "Joe Gold",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/joe_gold/aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "Raadio Elmar",
+    "url": "https://le06.euddn.net/06c6e9fec40c66f08e914c03863f9414453544f91420595482312a9fc4000bf6d1f2e38af14516a218d89b5a897a16f9500a64a80ed0da449f729d7f78de8bc5dcd07fb3a5925334697756f363102f773f78583b0e9c83bec1004f9b69bd211a11d59a39d295ac79d1f8c9848c83f83ffe16c9a65cb41f122ddcdc8c974c35a5f8d85b07cbd33b90325ddfd49b6a3e5666c05d27f019b6f1128741421b3d1e84/elmar.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "GENERATION SOUL DISCO FUNK RADIO",
+    "url": "https://gestream.fr/g-radio-hd.mp3",
+    "language": "English"
+  },
+  {
+    "name": "NRK MP3",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+    "language": "Norsk"
+  },
+  {
+    "name": "Mixify Bollywood",
+    "url": "https://server.mixify.in/listen/listen/radio.mp3",
+    "language": "Hindi"
+  },
+  {
+    "name": "Gazal Radio London",
+    "url": "https://streaming.webhostnepal.com/8018/stream",
+    "language": "Hindi"
+  },
+  {
+    "name": "Marrakechplus",
+    "url": "https://cast5.my-control-panel.com/proxy/marrakec/stream",
+    "language": "Arabic"
+  },
+  {
+    "name": "RNC La Mundialista 103.3 FM (AAC)",
+    "url": "https://streamingecuador.net:7008/radiornc",
+    "language": "Spanish"
+  },
+  {
+    "name": "Radio record - Main Channel",
+    "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
+    "language": "Russian"
+  },
+  {
+    "name": "Gold 104.3",
+    "url": "https://ais-arn.streamguys1.com/au_004_icy",
+    "language": "English"
+  },
+  {
     "name": "Chabad.org Jewish Music",
     "url": "https://stream.radio.co/sdfd68a101/listen",
     "language": "English"
@@ -65,11 +150,6 @@
     "language": "Arabic"
   },
   {
-    "name": "Bond 92.9 FM",
-    "url": "https://go.webgateready.com/bondfm",
-    "language": "Unknown"
-  },
-  {
     "name": "Atmospheric dnb s0urce",
     "url": "https://brokenbeats.net/stream/aac",
     "language": "English"
@@ -103,11 +183,6 @@
     "name": "Radio U1 Tirol",
     "url": "https://live.u1-radio.at/",
     "language": "German"
-  },
-  {
-    "name": "Vividh Bharati Bengaluru",
-    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio026/hlspbaudio026_Auto.m3u8",
-    "language": "Kannada"
   },
   {
     "name": "Rinse UK",
@@ -213,11 +288,6 @@
     "name": "Algérie Chaine 1",
     "url": "https://radiochaine1.ice.infomaniak.ch/chaine1.mp3",
     "language": "Arabic"
-  },
-  {
-    "name": "#joint radio Blues Rock",
-    "url": "https://jointil.com/stream-blues",
-    "language": "English"
   },
   {
     "name": "CJCL Sportsnet 590 The Fan",
@@ -665,11 +735,6 @@
     "language": "Unknown"
   },
   {
-    "name": "Rádio Gaúcha 93.7 FM",
-    "url": "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "language": "Portuguese"
-  },
-  {
     "name": "100 % SALSA",
     "url": "https://stm01.streammaximum.com:8194/;",
     "language": "Spanish"
@@ -773,11 +838,6 @@
     "name": "Sveriges Radio - P1",
     "url": "https://live1.sr.se/p1-aac-320",
     "language": "Swedish"
-  },
-  {
-    "name": "Gaúcha",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "language": "Portuguese"
   },
   {
     "name": "Intamixx 80s 90s Radio UK",
@@ -1503,11 +1563,6 @@
     "name": "80s 90s Absolute Hits",
     "url": "https://live.streamthe.world/absolutehits",
     "language": "English"
-  },
-  {
-    "name": "ECO99FM",
-    "url": "https://eco-live.mediacast.co.il/99fm_aac",
-    "language": "Hebrew"
   },
   {
     "name": "DR P4 København (AAC)",
