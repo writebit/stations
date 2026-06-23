@@ -1,5 +1,125 @@
 [
   {
+    "name": "DYHP 612 RMN Cebu",
+    "url": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream",
+    "language": "Unknown"
+  },
+  {
+    "name": "ORF Radio Oberösterreich | HQ",
+    "url": "https://orf-live.ors-shoutcast.at/ooe-q2a",
+    "language": "Unknown"
+  },
+  {
+    "name": "KEXP 90.3 Seattle, WA (AAC 160K)",
+    "url": "https://kexp.streamguys1.com/kexp160.aac",
+    "language": "English"
+  },
+  {
+    "name": "00-Radio Canada Montreal",
+    "url": "https://rcavliveaudio.akamaized.net/hls/live/2006635/P-2QMTL0_MTL/adaptive_192/master.m3u8",
+    "language": "French"
+  },
+  {
+    "name": "ABC Radio Melbourne",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038300/localmelbourne/masterhq.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "Seven News 94.4",
+    "url": "https://i5.streams.ovh:14030/live",
+    "language": "Greek"
+  },
+  {
+    "name": "Early Music",
+    "url": "https://earlymusic.stream.laut.fm/early_music?t302=2026-01-19_21-30-22&uuid=c51eeb0e-57f5-4338-99c9-65711becb6bb",
+    "language": "Unknown"
+  },
+  {
+    "name": "Dahlia Bandung 101.5 FM",
+    "url": "https://svara-stream.radioddns.net/bandung_dahliafm",
+    "language": "Unknown"
+  },
+  {
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "language": "Portuguese"
+  },
+  {
+    "name": "ffn",
+    "url": "https://ffn-de-hz-fal-stream04-cluster01.radiohost.de/ffn_mp3-192",
+    "language": "Unknown"
+  },
+  {
+    "name": "Vanilla Radio Smooth Flavors",
+    "url": "https://smooth.vanillaradio.com:8032/live",
+    "language": "Unknown"
+  },
+  {
+    "name": "DR P4 Sjælland (AAC)",
+    "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8",
+    "language": "Danish"
+  },
+  {
+    "name": "Rádio Gaúcha 93.7 FM",
+    "url": "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "גלצ",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "language": "Hebrew"
+  },
+  {
+    "name": "رحبانيات",
+    "url": "https://stream.zeno.fm/4g8xck48kfhvv",
+    "language": "Arabic"
+  },
+  {
+    "name": "CBS News",
+    "url": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "SumerFm Iraq",
+    "url": "https://l3.itworkscdn.net/itwaudio/9012/stream",
+    "language": "Arabic"
+  },
+  {
+    "name": "WAMU American University Radio",
+    "url": "https://wamu.cdnstream1.com/wamu.mp3",
+    "language": "English"
+  },
+  {
+    "name": "Kishore Kumar Radio",
+    "url": "https://stream-48.zeno.fm/0ghtfp8ztm0uv?zs=Kr_rJK1kSsKPKeUo9zgTxw&rj-ttl=5&rj-tok=AAABefQSIpIAGxcgV3Wv5gK8Kg",
+    "language": "Hindi"
+  },
+  {
+    "name": "RFI Tiếng Việt",
+    "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "YleX",
+    "url": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
+    "language": "Finnish"
+  },
+  {
+    "name": ".100 Hip hop and RNB FM",
+    "url": "https://ice64.securenetsystems.net/LFTM",
+    "language": "English"
+  },
+  {
+    "name": "Radio Nepal",
+    "url": "https://stream1.radionepal.gov.np/live/",
+    "language": "Nepali"
+  },
+  {
+    "name": "Radio Jamaica 94FM",
+    "url": "https://stream.zeno.fm/cub84trbgy5tv",
+    "language": "English"
+  },
+  {
     "name": "Rádio Mix 106.3 FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
     "language": "Portuguese"
@@ -215,11 +335,6 @@
     "language": "English"
   },
   {
-    "name": "Anty Radio",
-    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
-    "language": "Unknown"
-  },
-  {
     "name": "Jazz 24",
     "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
     "language": "Unknown"
@@ -343,11 +458,6 @@
     "name": "Tipik",
     "url": "https://radios.rtbf.be/pure-128.mp3",
     "language": "French"
-  },
-  {
-    "name": "Big B Radio - Kpop",
-    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
-    "language": "Korean"
   },
   {
     "name": "SomaFM Groove Salad (128k AAC)",
@@ -698,11 +808,6 @@
     "name": "FM Soldados 87.5",
     "url": "https://radio02.ferozo.com/proxy/ra01000409?mp=/stream",
     "language": "Español Argentina"
-  },
-  {
-    "name": "Willy Class X",
-    "url": "https://streams.radio.dpgmedia.cloud/redirect/willy_be_class_x/aac",
-    "language": "Dutch"
   },
   {
     "name": "BEST OF AR RAHMAN TAMIL SONGS",
@@ -1348,11 +1453,6 @@
     "name": "ISHQ FM 104.8",
     "url": "https://drive.uber.radio/uber/bollywoodlove/icecast.audio",
     "language": "Hindi"
-  },
-  {
-    "name": "Tamil Panpalai Gold",
-    "url": "https://tamilpanpalai.radioca.st/ind",
-    "language": "Tamil"
   },
   {
     "name": "Skyrock 100% FRANÇAIS",
@@ -2302,11 +2402,6 @@
   {
     "name": "新疆-十三师人民广播电台",
     "url": "https://lhttp.qingting.fm/live/5022506/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "新疆-察布查尔人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5022610/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -3843,11 +3938,6 @@
     "name": "Sterren.nl",
     "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
     "language": "Dutch"
-  },
-  {
-    "name": "Extreme Deep House Radio",
-    "url": "https://whsh4u-panel.com/proxy/yfryujzw/stream",
-    "language": "Unknown"
   },
   {
     "name": "Radio Freccia",
