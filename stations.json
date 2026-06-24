@@ -1,5 +1,50 @@
 [
   {
+    "name": "Rire et Chansons Canulars",
+    "url": "https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=mytuner",
+    "language": "French"
+  },
+  {
+    "name": "星空电台 STAR RADIO",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3",
+    "language": "Cantonese"
+  },
+  {
+    "name": "Bond 92.9 FM",
+    "url": "https://go.webgateready.com/bondfm",
+    "language": "Unknown"
+  },
+  {
+    "name": "KontraFunk",
+    "url": "https://stream.kontrafunk.radio/listen/kontrafunk/radio.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Technolovers EDM",
+    "url": "https://stream.technolovers.fm/edm?ref=radiobrowser",
+    "language": "English"
+  },
+  {
+    "name": "Avto Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AVTORADIOAAC_L.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "__SEX__ by rautemusik (rm.fm)",
+    "url": "https://sex-high.rautemusik.fm/?ref=radiobrowser",
+    "language": "English"
+  },
+  {
+    "name": "sky news UK",
+    "url": "https://tunein.cdnstream1.com/3688_96.mp3?aw_0_1st.skey=1718490659&aw_0_1st.abtest=&aw_0_1st.stationId=s2583&aw_0_1st.premium=false&source=TuneIn&aw_0_1st.platform=tunein&aw_0_1st.genre_id=g255&aw_0_1st.class=talk&aw_0_1st.ads_partner_alias=ce.Other&aw_0_azn.planguage=en",
+    "language": "English"
+  },
+  {
+    "name": "Oxygen The 80s Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenthe80shits",
+    "language": "Unknown"
+  },
+  {
     "name": "DYHP 612 RMN Cebu",
     "url": "https://de3.amfmph.com/ssl/rmncebu?mp=%2Fstream",
     "language": "Unknown"
@@ -440,11 +485,6 @@
     "language": "American English"
   },
   {
-    "name": "Tamil 80's Radio",
-    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
-    "language": "Tamil"
-  },
-  {
     "name": "Radio Bruno Pentasport Fiorentina",
     "url": "https://stream3.xdevel.com/audio6s975355-281/stream/icecast.audio",
     "language": "Unknown"
@@ -873,11 +913,6 @@
     "name": "SomaFM Deep Space One (128k MP3)",
     "url": "https://ice6.somafm.com/deepspaceone-128-mp3",
     "language": "English"
-  },
-  {
-    "name": "Radio Mirchi Hindi",
-    "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
-    "language": "Hindi"
   },
   {
     "name": "- 0 N - 70s on Radio",
@@ -1505,11 +1540,6 @@
     "language": "German"
   },
   {
-    "name": "Türkü Radyo",
-    "url": "https://eu8.fastcast4u.com/proxy/ugur4129?mp=/1",
-    "language": "Türkisch"
-  },
-  {
     "name": "__TECHNO__ by rautemusik.fm",
     "url": "https://streams.rautemusik.fm/techno/mp3-192/?ref=radiobrowser",
     "language": "Deutsch Fränkisch"
@@ -1588,11 +1618,6 @@
     "name": "Coast FM",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_07AAC.m3u8?aw_0_1st.playerid=iHeartRadioWebPlayer&aw_0_1st.skey=9774168307&clientType=web&companionAds=false&deviceName=web-desktop&dist=iheart&host=webapp.NZ&listenerId=&playedFrom=157&pname=live_profile&profileId=9774168307&stationid=6193&terminalId=162&territory=NZ",
     "language": "English"
-  },
-  {
-    "name": "Vanilla Radio Deep Flavors",
-    "url": "https://stream.vanillaradio.com:8003/live",
-    "language": "Unknown"
   },
   {
     "name": "BEST DEEP FM",
@@ -2255,11 +2280,6 @@
     "language": "Chinese"
   },
   {
-    "name": "江苏-仪征人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/15318182/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "江苏-大丰人民广播电台",
     "url": "https://lhttp.qingting.fm/live/20211708/64k.mp3",
     "language": "Chinese"
@@ -2400,11 +2420,6 @@
     "language": "Chinese"
   },
   {
-    "name": "新疆-十三师人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5022506/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "新疆-巴音郭楞交通广播",
     "url": "https://lhttp.qingting.fm/live/5022104/64k.mp3",
     "language": "Chinese"
@@ -2492,16 +2507,6 @@
   {
     "name": "鄂州综合广播",
     "url": "https://lhttp.qingting.fm/live/21025/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "淮北交通广播",
-    "url": "https://lhttp.qingting.fm/live/20211647/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "淮北综合广播",
-    "url": "https://lhttp.qingting.fm/live/20211648/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -2732,11 +2737,6 @@
   {
     "name": "ABC Lounge Radio",
     "url": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-    "language": "English"
-  },
-  {
-    "name": "Beta Anon.FM",
-    "url": "https://radio.anonymous.delivery/music.mp3",
     "language": "English"
   },
   {
