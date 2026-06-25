@@ -1,5 +1,95 @@
 [
   {
+    "name": "Radio Mirchi Hindi",
+    "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
+    "language": "Hindi"
+  },
+  {
+    "name": "Anty Radio",
+    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+    "language": "Unknown"
+  },
+  {
+    "name": "ABC Radio Sydney",
+    "url": "https://mediaserviceslive.akamaized.net/hls/live/2038302/localsydney/masterhq.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "CNN International Audio",
+    "url": "https://tunein.cdnstream1.com/3519_96.aac",
+    "language": "English"
+  },
+  {
+    "name": "2SM SRN Sydney",
+    "url": "https://cast4.asurahosting.com/proxy/2sm1269/stream",
+    "language": "English"
+  },
+  {
+    "name": "CFIX-FM \"Rouge FM 96.9\" Saguenay, QC",
+    "url": "https://26373.live.streamtheworld.com/CFIXFMAAC_SC",
+    "language": "English"
+  },
+  {
+    "name": "Hits 1 Algérie",
+    "url": "https://radio12.pro-fhi.net/listen/whmnrlow/stream",
+    "language": "French"
+  },
+  {
+    "name": "- 0 N - Chillout on Radio",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.aac",
+    "language": "German"
+  },
+  {
+    "name": "Jovem Pan FM - Florianópolis - SC",
+    "url": "https://live.paineldj.com.br/proxy/jfloripa?mp=/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "Radio Bruno - Made in Italy",
+    "url": "https://stream2.xdevel.com/audio1s975355-54/stream/icecast.audio",
+    "language": "Italian"
+  },
+  {
+    "name": "CHẠM RADIO",
+    "url": "https://vnno-ne-2-tf-multi-playlist-zmp3.zmdcdn.me/j20SDlO5EQk/zhls/playback-realtime/audio/59a2ee0ed24b3b15625a/audio.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "Gaúcha",
+    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "WeHouseRadio",
+    "url": "https://icecast9.play.cz/zun192.mp3",
+    "language": "English"
+  },
+  {
+    "name": "Tamil 80's Radio",
+    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
+    "language": "Tamil"
+  },
+  {
+    "name": "Air Kochi FM",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8",
+    "language": "Malayalam"
+  },
+  {
+    "name": "Народное радио Минск 87.9 FM",
+    "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "language": "Russian"
+  },
+  {
+    "name": "AIR Nagpur",
+    "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio070/playlist.m3u8",
+    "language": "English"
+  },
+  {
+    "name": "Air FM Rainbow Delhi",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio004/hlspbaudio004_Auto.m3u8",
+    "language": "Hindi"
+  },
+  {
     "name": "Rire et Chansons Canulars",
     "url": "https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=mytuner",
     "language": "French"
@@ -85,11 +175,6 @@
     "language": "Unknown"
   },
   {
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "language": "Portuguese"
-  },
-  {
     "name": "ffn",
     "url": "https://ffn-de-hz-fal-stream04-cluster01.radiohost.de/ffn_mp3-192",
     "language": "Unknown"
@@ -148,11 +233,6 @@
     "name": "YleX",
     "url": "https://yleradiolive.akamaized.net/hls/live/2027674/in-YleX/master.m3u8",
     "language": "Finnish"
-  },
-  {
-    "name": ".100 Hip hop and RNB FM",
-    "url": "https://ice64.securenetsystems.net/LFTM",
-    "language": "English"
   },
   {
     "name": "Radio Nepal",
