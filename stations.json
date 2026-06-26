@@ -1,5 +1,115 @@
 [
   {
+    "name": "- 0 N - Reggae on Radio",
+    "url": "https://0n-reggae.radionetz.de/0n-reggae.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 0 N - Jazz on Radio",
+    "url": "https://0n-jazz.radionetz.de/0n-jazz.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 0 N - Indie on Radio",
+    "url": "https://0n-indie.radionetz.de/0n-indie.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 0 N - 2000s on Radio",
+    "url": "https://0n-2000s.radionetz.de/0n-2000s.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 0 N - Relax on Radio",
+    "url": "https://0n-relax.radionetz.de/0n-relax.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Radio Digital Malayali",
+    "url": "https://radio.digitalmalayali.in/listen/stream/radio.mp3",
+    "language": "Malayalam"
+  },
+  {
+    "name": "- 1 A - Oldies von 1A Radio",
+    "url": "https://1a-oldies.radionetz.de/1a-oldies.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Abiding Radio - Instrumental",
+    "url": "https://streams.abidingradio.com:7800/1",
+    "language": "Unknown"
+  },
+  {
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Vanilla",
+    "url": "https://play.global.audio/vanillahi.aac",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 1 A - Classic Rock von 1A Radio",
+    "url": "https://1a-classicrock.radionetz.de/1a-classicrock.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Fantasy Italo Dance 90s radio",
+    "url": "https://mscp2.live-streams.nl:8152/italodance",
+    "language": "English"
+  },
+  {
+    "name": "BG Estrada",
+    "url": "https://play.global.audio/bgestrada",
+    "language": "Bulgarian"
+  },
+  {
+    "name": "* Meme dans les orties *",
+    "url": "https://radio.sk8ter.org:8443/stream",
+    "language": "French"
+  },
+  {
+    "name": "#joint radio Blues Rock",
+    "url": "https://jointil.com/stream-blues",
+    "language": "English"
+  },
+  {
+    "name": "Nostalgia",
+    "url": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "language": "Finnish"
+  },
+  {
+    "name": "Metro fm turkey",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio La Otra - 91.3 FM",
+    "url": "https://laotrafm.makrodigital.com/stream/laotrafmquito",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 0 N - 90s on Radio",
+    "url": "https://0n-90s.radionetz.de/0n-90s.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Yammat FM",
+    "url": "https://stream.yammat.fm/radio/8000/yammat.mp3",
+    "language": "Croatia"
+  },
+  {
+    "name": "Cidade FM",
+    "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Blu Radio Bogotá 89.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BLURADIO.mp3",
+    "language": "Spanish"
+  },
+  {
     "name": "Radio Mirchi Hindi",
     "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
     "language": "Hindi"
