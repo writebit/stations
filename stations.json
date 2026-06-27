@@ -1,5 +1,105 @@
 [
   {
+    "name": "Qmusic",
+    "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Abiding Radio - Bluegrass Hymns",
+    "url": "https://streams.abidingradio.com:7840/1",
+    "language": "English"
+  },
+  {
+    "name": "香港新城电台知讯台",
+    "url": "https://1603884249.rsc.cdn77.org/1603884249/index.m3u8",
+    "language": "Cantonese"
+  },
+  {
+    "name": "- 0 N - Techno on Radio",
+    "url": "https://0n-techno.radionetz.de/0n-techno.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Big B Radio - Kpop",
+    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
+    "language": "Korean"
+  },
+  {
+    "name": "- 0 N - Chillout on Radio",
+    "url": "https://0n-chillout.radionetz.de/0n-chillout.mp3",
+    "language": "German"
+  },
+  {
+    "name": "1] Авторадіо",
+    "url": "https://cast.mediaonline.net.ua/avtoradio",
+    "language": "Unknown"
+  },
+  {
+    "name": "Listen.moe Kpop",
+    "url": "https://listen.moe/kpop/stream",
+    "language": "Korean"
+  },
+  {
+    "name": "50首经典古典音乐",
+    "url": "https://lhttp-hw.qtfm.cn/live/5022308/64k.mp3",
+    "language": "Chinese"
+  },
+  {
+    "name": "Extreme Deep House Radio",
+    "url": "https://whsh4u-panel.com/proxy/yfryujzw/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 0 N - Oldies on Radio",
+    "url": "https://0n-oldies.radionetz.de/0n-oldies.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 1 A - Hits von 1A Radio",
+    "url": "https://1a-hits.radionetz.de/1a-hits.mp3",
+    "language": "German"
+  },
+  {
+    "name": "- 1 A - Relax von 1A Radio",
+    "url": "https://1a-relax.radionetz.de/1a-relax.mp3",
+    "language": "German"
+  },
+  {
+    "name": "El Espectador 810",
+    "url": "https://espectador-1.nty.uy/",
+    "language": "Castellano. Español"
+  },
+  {
+    "name": "P5 Hits (MP3 128k)",
+    "url": "https://p5.p4groupaudio.com/P05_MM",
+    "language": "Norwegian"
+  },
+  {
+    "name": "George FM",
+    "url": "https://mediaworks.streamguys1.com/george_net_icy",
+    "language": "Unknown"
+  },
+  {
+    "name": "Lux FM",
+    "url": "https://streamvideo.luxnet.ua/lux/smil:lux.stream.smil/playlist.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio Mojahed - رادیو مجاهد",
+    "url": "https://s2.radio.co/s830691c74/listen",
+    "language": "Persian"
+  },
+  {
+    "name": "香港電台第一台",
+    "url": "https://rthkradio1-live.akamaized.net/hls/live/2035313/radio1/index_64_a.m3u8",
+    "language": "Cantonese"
+  },
+  {
+    "name": "Radio SuomiPop",
+    "url": "https://aud-stream-suomipop.nm-elemental.nelonenmedia.fi/playlist-256000.m3u8",
+    "language": "Unknown"
+  },
+  {
     "name": "- 0 N - Reggae on Radio",
     "url": "https://0n-reggae.radionetz.de/0n-reggae.mp3",
     "language": "German"
@@ -573,11 +673,6 @@
     "name": "Jazz 24",
     "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
     "language": "Unknown"
-  },
-  {
-    "name": "RIX FM 106,7",
-    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
-    "language": "Swedish"
   },
   {
     "name": "RADIO RELAX Italia",
@@ -2200,11 +2295,6 @@
     "language": "Chinese"
   },
   {
-    "name": "沧州长书文艺广播",
-    "url": "https://lhttp.qingting.fm/live/5021902/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "新昌人民广播电台·天姥之声",
     "url": "https://lhttp.qingting.fm/live/20212423/64k.mp3",
     "language": "Chinese"
@@ -2575,18 +2665,8 @@
     "language": "Chinese"
   },
   {
-    "name": "希望-沧州交通音乐广播",
-    "url": "https://lhttp.qingting.fm/live/3954/64k.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "希望-邯郸经济文艺广播",
     "url": "https://lhttp.qingting.fm/live/4601/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "希望-沧州综合广播",
-    "url": "https://lhttp.qingting.fm/live/5021901/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -4075,11 +4155,6 @@
     "language": "Italian"
   },
   {
-    "name": "On sports FM",
-    "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
-    "language": "Unknown"
-  },
-  {
     "name": "The Sound",
     "url": "https://digitalstreams.mediaworks.nz/sound_net/playlist.m3u8",
     "language": "English"
@@ -4313,11 +4388,6 @@
     "name": "Q-Music",
     "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playerId=redirect",
     "language": "Unknown"
-  },
-  {
-    "name": "Al araby",
-    "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
-    "language": "Arabic"
   },
   {
     "name": "إذاعة محمود خليل الحصري",
