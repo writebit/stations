@@ -1,5 +1,80 @@
 [
   {
+    "name": "On sports FM",
+    "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 0 N - Gothic on Radio",
+    "url": "https://0n-gothic.radionetz.de/0n-gothic.mp3",
+    "language": "German"
+  },
+  {
+    "name": ".100 Hip hop and RNB FM",
+    "url": "https://ice64.securenetsystems.net/LFTM",
+    "language": "English"
+  },
+  {
+    "name": "Al araby",
+    "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+    "language": "Arabic"
+  },
+  {
+    "name": "REPLAY NEWS - 日本語 5分ごとのニュースラジオ",
+    "url": "https://replaynewsja.ice.infomaniak.ch/replaynewsja-128.mp3",
+    "language": "Japanese"
+  },
+  {
+    "name": "Meloradio FM",
+    "url": "https://r.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5",
+    "language": "Polish"
+  },
+  {
+    "name": "- 0 N - New Wave on Radio",
+    "url": "https://0n-newwave.radionetz.de/0n-newwave.mp3",
+    "language": "German"
+  },
+  {
+    "name": "SWR1 BW",
+    "url": "https://liveradio.swr.de/sw331ch/swr1bw/",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 0 N - Lounge on Radio",
+    "url": "https://0n-lounge.radionetz.de/0n-lounge.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Love Radio Manila",
+    "url": "https://azura.loveradio.com.ph/listen/love_radio_manila/radio.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio Pakistan Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7003/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "臺北電台",
+    "url": "https://stream.ginnet.cloud/live0130lo-yfyo/_definst_/fm/playlist.m3u8",
+    "language": "Chinese"
+  },
+  {
+    "name": "France Culture",
+    "url": "https://stream.radiofrance.fr/franceculture/franceculture_hifi.m3u8",
+    "language": "French"
+  },
+  {
+    "name": "- 1 A - 80er von 1A Radio",
+    "url": "https://1a-80er.radionetz.de/1a-80er.mp3",
+    "language": "German"
+  },
+  {
+    "name": "CYBERStacja",
+    "url": "https://sc.cyberstacja.pl:8000/radio.mp3",
+    "language": "English"
+  },
+  {
     "name": "Qmusic",
     "url": "https://streams.radio.dpgmedia.cloud/redirect/qmusic_be/mp3",
     "language": "Unknown"
@@ -140,11 +215,6 @@
     "language": "Unknown"
   },
   {
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "language": "Portuguese"
-  },
-  {
     "name": "Vanilla",
     "url": "https://play.global.audio/vanillahi.aac",
     "language": "Unknown"
@@ -168,11 +238,6 @@
     "name": "* Meme dans les orties *",
     "url": "https://radio.sk8ter.org:8443/stream",
     "language": "French"
-  },
-  {
-    "name": "#joint radio Blues Rock",
-    "url": "https://jointil.com/stream-blues",
-    "language": "English"
   },
   {
     "name": "Nostalgia",
@@ -308,11 +373,6 @@
     "name": "星空电台 STAR RADIO",
     "url": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3",
     "language": "Cantonese"
-  },
-  {
-    "name": "Bond 92.9 FM",
-    "url": "https://go.webgateready.com/bondfm",
-    "language": "Unknown"
   },
   {
     "name": "KontraFunk",
@@ -665,11 +725,6 @@
     "language": "Chinese"
   },
   {
-    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
-    "url": "https://radiopanther.radiolebowski.com/play",
-    "language": "English"
-  },
-  {
     "name": "Jazz 24",
     "url": "https://knkx-live-a.edge.audiocdn.com/6285_256k",
     "language": "Unknown"
@@ -688,11 +743,6 @@
     "name": "Channel 955",
     "url": "https://stream.revma.ihrhls.com/zc1145",
     "language": "English"
-  },
-  {
-    "name": "Super Radio Tupi 96.5",
-    "url": "https://8923.brasilstream.com.br/stream",
-    "language": "Brazilian Portuguese"
   },
   {
     "name": "lofi girl",
@@ -1083,11 +1133,6 @@
     "name": "Petőfi Rádió",
     "url": "https://icast.connectmedia.hu/4738/mr2.mp3",
     "language": "Hungarian"
-  },
-  {
-    "name": "动听音乐台",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022107/64k.mp3",
-    "language": "Cantonese"
   },
   {
     "name": "Rádio Transamérica 100.1 FM",
@@ -1718,11 +1763,6 @@
     "name": "Radio Volami nel Cuore",
     "url": "https://rci.canaleitalia.tv:8009/;",
     "language": "Italian"
-  },
-  {
-    "name": "Gensokyo Radio",
-    "url": "https://stream.gensokyoradio.net/3",
-    "language": "English"
   },
   {
     "name": "RNM",
@@ -2432,11 +2472,6 @@
   {
     "name": "贵州-六盘水综合广播",
     "url": "https://lhttp.qingting.fm/live/20211616/64k.mp3",
-    "language": "Chinese"
-  },
-  {
-    "name": "贵州-七星关人民广播电台",
-    "url": "https://lhttp.qingting.fm/live/5021866/64k.mp3",
     "language": "Chinese"
   },
   {
@@ -3640,11 +3675,6 @@
     "language": "Unknown"
   },
   {
-    "name": "Power POP",
-    "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
-    "language": "Turkish"
-  },
-  {
     "name": "Rádio Antena 1 94.7 FM",
     "url": "https://antenaone.crossradio.com.br/stream/1;",
     "language": "Portuguese"
@@ -4440,11 +4470,6 @@
     "language": "French"
   },
   {
-    "name": "REPLAY NEWS - 中文 每5分钟播报一次新闻的电台",
-    "url": "https://replaynewszh.ice.infomaniak.ch/replaynewszh-128.mp3",
-    "language": "Chinese"
-  },
-  {
     "name": "Bollywood classic songs",
     "url": "https://node-12.zeno.fm/60ef4p33vxquv?rj-ttl=5&rj-tok=AAABc-OCFngAs_AvDsY_StEpMg",
     "language": "Hindi"
@@ -4938,11 +4963,6 @@
     "name": "radio ffn",
     "url": "https://player.ffn.de/radioffn.mp3",
     "language": "Unknown"
-  },
-  {
-    "name": "Radio Con Vos 89.9",
-    "url": "https://server1.stweb.tv/rcvos/live/playlist.m3u8",
-    "language": "Spanish"
   },
   {
     "name": "FM4 | ORF",
