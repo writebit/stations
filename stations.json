@@ -1,5 +1,110 @@
 [
   {
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "language": "English"
+  },
+  {
+    "name": "Power POP",
+    "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
+    "language": "Turkish"
+  },
+  {
+    "name": "RIX FM 106,7",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "language": "Swedish"
+  },
+  {
+    "name": "HR Info",
+    "url": "https://hlshrinfo.akamaized.net/hls/live/2016539/hrinfo/master.m3u8",
+    "language": "Gernan"
+  },
+  {
+    "name": "Bond 92.9 FM",
+    "url": "https://go.webgateready.com/bondfm",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radio1",
+    "url": "https://icast.connectmedia.hu/5202/live.mp3",
+    "language": "Unknown"
+  },
+  {
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Best Of Rock.FM Alternative Rock",
+    "url": "https://bestofrockfm.stream.vip/altrock/mp3-256/bestofrock.fm/",
+    "language": "German"
+  },
+  {
+    "name": "INFORMA RADIO",
+    "url": "https://24x7.red:42045/informa",
+    "language": "Castellano. Español"
+  },
+  {
+    "name": "Ethio Oldies",
+    "url": "https://www.ethioldies.com/listen/ethioldies/radio.mp3",
+    "language": "Amharic"
+  },
+  {
+    "name": "Radijo stotis Lietus",
+    "url": "https://radio.m-1.fm/LIETUS",
+    "language": "Unknown"
+  },
+  {
+    "name": "Hits 1 Ibiza",
+    "url": "https://hits1spain-audiomediaradio.radioca.st/hits1mallorca",
+    "language": "English"
+  },
+  {
+    "name": "M80 Rádio – Ballads",
+    "url": "https://stream-icy.bauermedia.pt/m80ballads.aac",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Classic American Top 40",
+    "url": "https://stream.revma.ihrhls.com/zc6545",
+    "language": "Unknown"
+  },
+  {
+    "name": "JOE mp3",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "language": "Dutch"
+  },
+  {
+    "name": "Ancient FM",
+    "url": "https://mediaserv73.live-streams.nl:18058/stream",
+    "language": "English"
+  },
+  {
+    "name": "- 0 N - Gold on Radio",
+    "url": "https://0n-gold.radionetz.de/0n-gold.mp3",
+    "language": "German"
+  },
+  {
+    "name": "80s 90s Super Pop Hits",
+    "url": "https://s4.myradiostream.com:7344/listen.mp3?",
+    "language": "English"
+  },
+  {
+    "name": "Gensokyo Radio",
+    "url": "https://stream.gensokyoradio.net/3",
+    "language": "English"
+  },
+  {
+    "name": "SomaFM Groove Salad Classic (128k MP3)",
+    "url": "https://ice2.somafm.com/gsclassic-128-mp3",
+    "language": "English"
+  },
+  {
+    "name": "AIR Kolkata Geetanjali",
+    "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8",
+    "language": "Unknown"
+  },
+  {
     "name": "On sports FM",
     "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
     "language": "Unknown"
@@ -340,11 +445,6 @@
     "language": "English"
   },
   {
-    "name": "Tamil 80's Radio",
-    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
-    "language": "Tamil"
-  },
-  {
     "name": "Air Kochi FM",
     "url": "https://air.pc.cdn.bitgravity.com/air/live/pbaudio045/chunklist.m3u8",
     "language": "Malayalam"
@@ -368,11 +468,6 @@
     "name": "Rire et Chansons Canulars",
     "url": "https://streaming.nrjaudio.fm/ouwgjmsk6j4d?aw_0_1st.station=Rire-Chansons-CANULARS&origine=mytuner",
     "language": "French"
-  },
-  {
-    "name": "星空电台 STAR RADIO",
-    "url": "https://lhttp-hw.qtfm.cn/live/5022379/64k.mp3",
-    "language": "Cantonese"
   },
   {
     "name": "KontraFunk",
