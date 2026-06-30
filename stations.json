@@ -1,5 +1,80 @@
 [
   {
+    "name": "Cadena Ser +",
+    "url": "https://27953.live.streamtheworld.com/CADENASER_ALT1AAC.aac",
+    "language": "Espaňol"
+  },
+  {
+    "name": "Super Radio Tupi 96.5",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "- 1 A - 70er von 1A Radio",
+    "url": "https://1a-70er.radionetz.de/1a-70er.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Rádio Bandeirantes - São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RadioBandeirantesAAC.m3u8",
+    "language": "Brazilian Portuguese"
+  },
+  {
+    "name": "ZBS Zodiak FM",
+    "url": "https://ice31.securenetsystems.net/0079",
+    "language": "English"
+  },
+  {
+    "name": "CBS 음악 FM",
+    "url": "https://m-aac.cbs.co.kr/cbs939/_definst_/cbs939.stream/playlist.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "SWR Aktuell",
+    "url": "https://liveradio.swr.de/sw282p3/swraktuell/play.aac",
+    "language": "German"
+  },
+  {
+    "name": "Sunset Chillout Lounge",
+    "url": "https://listen.radioking.com/radio/571682/stream/631712",
+    "language": "Unknown"
+  },
+  {
+    "name": "FIP Jazz (Hi-Fi)",
+    "url": "https://stream.radiofrance.fr/fipjazz/fipjazz_hifi.m3u8?id=radiofrance",
+    "language": "French"
+  },
+  {
+    "name": "Taach FM",
+    "url": "https://pegasus.nucast.co.uk:8064/stream",
+    "language": "Unknown"
+  },
+  {
+    "name": "BandNews FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Radio Bhumi",
+    "url": "https://stream-156.zeno.fm/be5bqmk1k18uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJiZTVicW1rMWsxOHV2IiwiaG9zdCI6InN0cmVhbS0xNTYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjB1c0x1ZURGVEhTR0EwSDE1N2VBVmciLCJpYXQiOjE3MzU0NTM5MjQsImV4cCI6MTczNTQ1Mzk4NH0.vjlgqsHzQRt-_2T0LIHscJkAVHXd8hYV8Z6NDvvEWYk",
+    "language": "Bangla"
+  },
+  {
+    "name": "Greatest Hits Radio",
+    "url": "https://stream-mz.hellorayo.co.uk/net2westmidlands.aac?aw_0_1st.skey=1602676850&direct=true&rp_source=1",
+    "language": "Unknown"
+  },
+  {
+    "name": "Kontrafunk (AAC 64)",
+    "url": "https://s5.radio.co/sca4082ebb/low",
+    "language": "German"
+  },
+  {
+    "name": "Radio Canela Pichincha",
+    "url": "https://canelaradio.makrodigital.com:9280/stream",
+    "language": "Unknown"
+  },
+  {
     "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
     "url": "https://radiopanther.radiolebowski.com/play",
     "language": "English"
@@ -28,11 +103,6 @@
     "name": "Radio1",
     "url": "https://icast.connectmedia.hu/5202/live.mp3",
     "language": "Unknown"
-  },
-  {
-    "name": "Rádio Itatiaia 95.7 FM",
-    "url": "https://8903.brasilstream.com.br/stream",
-    "language": "Portuguese"
   },
   {
     "name": "Best Of Rock.FM Alternative Rock",
@@ -102,11 +172,6 @@
   {
     "name": "AIR Kolkata Geetanjali",
     "url": "https://airhlspush.pc.cdn.bitgravity.com/httppush/hlspbaudio055/hlspbaudio05564kbps.m3u8",
-    "language": "Unknown"
-  },
-  {
-    "name": "On sports FM",
-    "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
     "language": "Unknown"
   },
   {
@@ -680,11 +745,6 @@
     "language": "Arabic"
   },
   {
-    "name": "RNC La Mundialista 103.3 FM (AAC)",
-    "url": "https://streamingecuador.net:7008/radiornc",
-    "language": "Spanish"
-  },
-  {
     "name": "Radio record - Main Channel",
     "url": "https://radiorecord.hostingradio.ru/rr_main96.aacp",
     "language": "Russian"
@@ -1153,11 +1213,6 @@
     "name": "Danubius",
     "url": "https://stream.danubiusradio.hu/danubius_128k",
     "language": "Hungarian"
-  },
-  {
-    "name": ". quran",
-    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
-    "language": "Unknown"
   },
   {
     "name": "Huna Aden FM",
