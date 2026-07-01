@@ -1,5 +1,60 @@
 [
   {
+    "name": "On sports FM",
+    "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
+    "language": "Unknown"
+  },
+  {
+    "name": "- 0 N - Smooth Jazz on Radio",
+    "url": "https://0n-smoothjazz.radionetz.de/0n-smoothjazz.mp3",
+    "language": "German"
+  },
+  {
+    "name": "Tamil 80's Radio",
+    "url": "https://psrlive2.listenon.in/80?station=tamil80shitsradio",
+    "language": "Tamil"
+  },
+  {
+    "name": "Gensokyo Radio (Original)",
+    "url": "https://stream.gensokyoradio.net/1",
+    "language": "Unknown"
+  },
+  {
+    "name": ". quran",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "language": "Unknown"
+  },
+  {
+    "name": "RTHK Radio 2",
+    "url": "https://rthkradio2-live.akamaized.net/hls/live/2040078/radio2/index_64_a.m3u8",
+    "language": "Cantonese"
+  },
+  {
+    "name": "FIP",
+    "url": "https://stream.radiofrance.fr/fip/fip.m3u8",
+    "language": "French"
+  },
+  {
+    "name": "Blue Marlin Ibiza",
+    "url": "https://ibizasonica.streaming-pro.com:8001/bluemarlin",
+    "language": "Unknown"
+  },
+  {
+    "name": "FIP Metal",
+    "url": "https://icecast.radiofrance.fr/fipmetal-hifi.aac?id=radiofrance",
+    "language": "Unknown"
+  },
+  {
+    "name": "NRJ Norge",
+    "url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+    "language": "Norwegian"
+  },
+  {
+    "name": "Deutschlandfunk | DLF | OPUS 64k",
+    "url": "https://st01.sslstream.dlf.de/dlf/01/high/opus/stream.opus?aggregator=web",
+    "language": "German"
+  },
+  {
     "name": "Cadena Ser +",
     "url": "https://27953.live.streamtheworld.com/CADENASER_ALT1AAC.aac",
     "language": "Espaňol"
@@ -75,19 +130,9 @@
     "language": "Unknown"
   },
   {
-    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
-    "url": "https://radiopanther.radiolebowski.com/play",
-    "language": "English"
-  },
-  {
     "name": "Power POP",
     "url": "https://listen.powerapp.com.tr/powerpop/128/chunks.m3u8",
     "language": "Turkish"
-  },
-  {
-    "name": "RIX FM 106,7",
-    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
-    "language": "Swedish"
   },
   {
     "name": "HR Info",
@@ -500,11 +545,6 @@
     "language": "Unknown"
   },
   {
-    "name": "Gaúcha",
-    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "language": "Portuguese"
-  },
-  {
     "name": "WeHouseRadio",
     "url": "https://icecast9.play.cz/zun192.mp3",
     "language": "English"
@@ -618,11 +658,6 @@
     "name": "DR P4 Sjælland (AAC)",
     "url": "https://drliveradio1.akamaized.net/hls/live/2097651/p4sjaelland/masterab.m3u8",
     "language": "Danish"
-  },
-  {
-    "name": "Rádio Gaúcha 93.7 FM",
-    "url": "https://liverdgaupoa.rbsdirect.com.br/primary/gaucha_rbs.sdp/playlist.m3u8",
-    "language": "Portuguese"
   },
   {
     "name": "גלצ",
@@ -3190,11 +3225,6 @@
     "language": "English"
   },
   {
-    "name": "ABC Lounge Radio",
-    "url": "https://eu1.fastcast4u.com/proxy/kpmxz?mp=/1",
-    "language": "English"
-  },
-  {
     "name": "Miami Beach Radio",
     "url": "https://streaming.radiostreamlive.com/miamibeachradio_devices",
     "language": "English"
@@ -4692,11 +4722,6 @@
   {
     "name": "Mirchi Love",
     "url": "https://nl4.mystreaming.net/uber/bollywoodlove/icecast.audio",
-    "language": "Unknown"
-  },
-  {
-    "name": "ABC Lounge Jazz",
-    "url": "https://eu1.fastcast4u.com/proxy/kpmxz/stream",
     "language": "Unknown"
   },
   {
