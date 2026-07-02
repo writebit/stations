@@ -1,5 +1,50 @@
 [
   {
+    "name": "CLASSIC HITS RADIO 70 80 DiscoFunk ModernSoul Boogie",
+    "url": "https://radiopanther.radiolebowski.com/play",
+    "language": "English"
+  },
+  {
+    "name": "Radio SAR - Studencka Agencja Radiowa",
+    "url": "https://stream.radiosar.pl/hdmain.mp3",
+    "language": "English"
+  },
+  {
+    "name": "REPLAY NEWS - 中文 每5分钟播报一次新闻的电台",
+    "url": "https://replaynewszh.ice.infomaniak.ch/replaynewszh-128.mp3",
+    "language": "Chinese"
+  },
+  {
+    "name": "RIX FM 106,7",
+    "url": "https://fm01-ice.stream.khz.se/fm01_mp3",
+    "language": "Swedish"
+  },
+  {
+    "name": "Gaúcha",
+    "url": "https://1132747t.ha.azioncdn.net/primary/gaucha_rbs.sdp/playlist.m3u8",
+    "language": "Portuguese"
+  },
+  {
+    "name": "Pyongyang Radio FM",
+    "url": "https://listen7.myradio24.com/69366",
+    "language": "Spanish"
+  },
+  {
+    "name": "FENOMEN TÜRK",
+    "url": "https://live.radyofenomen.com/fenomenturk/abr/fenomenturk/256/chunks.m3u8",
+    "language": "Unknown"
+  },
+  {
+    "name": "Radyo Sputnik",
+    "url": "https://icecast-rian.cdnvideo.ru/voicestm",
+    "language": "Turkish"
+  },
+  {
+    "name": "Радио Книга Вслух",
+    "url": "https://radio-soyuz.ru:1045/stream",
+    "language": "Unknown"
+  },
+  {
     "name": "On sports FM",
     "url": "https://carina.streamerr.co:2020/stream/OnSportFM",
     "language": "Unknown"
@@ -310,11 +355,6 @@
     "language": "German"
   },
   {
-    "name": "Big B Radio - Kpop",
-    "url": "https://antares.dribbcast.com/proxy/kpop?mp=/s",
-    "language": "Korean"
-  },
-  {
     "name": "- 0 N - Chillout on Radio",
     "url": "https://0n-chillout.radionetz.de/0n-chillout.mp3",
     "language": "German"
@@ -493,11 +533,6 @@
     "name": "Radio Mirchi Hindi",
     "url": "https://eu8.fastcast4u.com/proxy/clyedupq/stream",
     "language": "Hindi"
-  },
-  {
-    "name": "Anty Radio",
-    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
-    "language": "Unknown"
   },
   {
     "name": "ABC Radio Sydney",
@@ -880,11 +915,6 @@
     "language": "Chinese"
   },
   {
-    "name": "Kiss FM Digital HD",
-    "url": "https://online.kissfm.ua/KissFM_Digital_HD",
-    "language": "Unknown"
-  },
-  {
     "name": "Radio U1 Tirol",
     "url": "https://live.u1-radio.at/",
     "language": "German"
@@ -1180,11 +1210,6 @@
     "language": "Polish"
   },
   {
-    "name": "Мелодія FM",
-    "url": "https://online.melodiafm.ua/MelodiaFM",
-    "language": "Unknown"
-  },
-  {
     "name": "NRK P2 aac_h",
     "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
     "language": "Unknown"
@@ -1303,11 +1328,6 @@
     "name": "راديو الشيخ محمد المقرمي إذاعة (هندسة القلوب)",
     "url": "https://s1.reliastream.com/proxy/almaqrami?mp=/stream",
     "language": "Arabic"
-  },
-  {
-    "name": "Kiss FM Deep",
-    "url": "https://online.kissfm.ua/KissFM_Deep",
-    "language": "Unknown"
   },
   {
     "name": "Kelantan FM",
@@ -1648,11 +1668,6 @@
     "name": "Radio Capital W L'Italia",
     "url": "https://4c4b867c89244861ac216426883d1ad0.msvdn.net/webradio/capitalwitalia/playlist.m3u8",
     "language": "Italian"
-  },
-  {
-    "name": "Kiss FM",
-    "url": "https://online.kissfm.ua/KissFM_HD",
-    "language": "Ukrainian"
   },
   {
     "name": "Radio Bollerwagen",
@@ -4515,11 +4530,6 @@
     "language": "Arabic"
   },
   {
-    "name": "Radio Marca",
-    "url": "https://www.marca.com/radio/geoblock/getSrcApp.php?dial=Nacional&dist=radiomarcaweb",
-    "language": "Unknown"
-  },
-  {
     "name": "两广之声音乐台",
     "url": "https://lhttp.qtfm.cn/live/20500149/64k.mp3",
     "language": "Cantonese"
@@ -5175,11 +5185,6 @@
     "language": "English"
   },
   {
-    "name": "Radio Marca Madrid",
-    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOMARCA_NACIONAL_SC",
-    "language": "Spanish"
-  },
-  {
     "name": "diwanfm",
     "url": "https://streaming.diwanfm.net/stream",
     "language": "Unknown"
@@ -5273,11 +5278,6 @@
     "name": "Radio 10 non-stop",
     "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
     "language": "Dutch"
-  },
-  {
-    "name": "Kiss FM Ukrainian",
-    "url": "https://online.kissfm.ua/KissFM_Ukr",
-    "language": "Ukrainian"
   },
   {
     "name": "# 100 GREATEST CLASSICAL MUSIC",
